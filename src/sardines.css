@@ -1,0 +1,32 @@
+.fishdiv img {
+border: 1px solid red;
+height: 99vh;
+width: 100%;
+box-sizing: border-box;
+position: absolute;
+z-index: -1;
+}
+.sardinesdiv {
+    width: auto;
+    padding: 20px;
+    position: absolute; 
+    top: 35%;
+    left: 15%;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+.sardinesdiv p {
+    font-size: 1.8em;
+    font-weight: bold;
+    color: white;
+}
+.sardinesdiv ul {
+    list-style-type: none;
+}
+.sardinesdiv a {
+    text-decoration: none;
+}
+.sardinesdiv a:hover {
+
+    text-decoration: underline white;
+}

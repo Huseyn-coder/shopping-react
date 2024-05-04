@@ -1,0 +1,47 @@
+.ul-li {
+    background-color: rgb(36, 22, 22);
+    display: inline;
+    padding-left: 0px;
+    margin: 0;
+    box-sizing: border-box;
+}
+.chipsdiv {
+    display: inline-block;
+    position: relative; 
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    margin-top: 12%;
+    margin-bottom: 13%;
+}
+.chipsbutton {
+    background-color: rgba(255, 255, 255, 0.479);
+    border-radius: 10px;
+    box-shadow: none;
+}
+.chipsbutton:hover {
+    background-color: red;
+}
+
+
+
+
+.div-ul {
+    padding: 0;
+
+  }
+  
+.div-li {
+    list-style: none;
+    text-align: center;
+  }
+  
+.div-a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 20px; /* İstediğiniz kadar ayarlayın */
+    margin: 0 auto; /* Yatayda ortalamak için */
+  }
+  .div-a:hover {
+    text-decoration: underline;
+  }
